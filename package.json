@@ -1,6 +1,6 @@
 {
   "homepage": "https://abbaskhurram255.github.io/habit-tracker-v2/",   "name": "habit-tracker",
-  "version": "2.0",
+  "version": "2.0.0",
   "private": true,
   "dependencies": {
     "animate.css": "^3.5.2",
